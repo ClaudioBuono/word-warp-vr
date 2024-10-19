@@ -5,9 +5,9 @@
 # WordWarpVR: Unleash the Power of Words
 
   
-
-<img  src="media/Images/word_warp_main_title.png"  width="100%"/>
-
+<center>
+  <img  src="media/Images/word_warp_main_title.png"  width="60%"/>
+</center>
   
 
 ## ☁️ **Overview**
@@ -79,10 +79,10 @@ Use Case Diagram of the game flow can be found [here](media/Images/UCD.png)
 
 ### HUB
 
-<img  src="media/Screenshots/HUB_panorama.jpg"  width="70%"/>
+<img  src="media/Screenshots/HUB_panorama.jpg"  width="56%"/>
 
 ### Game Table
-<img  src="media/Screenshots/new_game.png"  width="70%"/> 
+<img  src="media/Screenshots/new_game.png"  width="56%"/> 
 
 </center>
 
@@ -91,10 +91,10 @@ Use Case Diagram of the game flow can be found [here](media/Images/UCD.png)
 
 <center>
     <p float="left">
-    <img  src="media/GIFs/start_game.gif"  width="45%"/>
-    <img  src="media/GIFs/tutorial.gif"  width="45%"/> 
-    <img  src="media/GIFs/translate_gun.gif"  width="45%"/>
-    <img  src="media/GIFs/word_confirmation.gif"  width="45%"/>
+    <img  src="media/GIFs/start_game.gif"  width="28%"/>
+    <img  src="media/GIFs/tutorial.gif"  width="28%"/><br> 
+    <img  src="media/GIFs/translate_gun.gif"  width="28%"/>
+    <img  src="media/GIFs/word_confirmation.gif"  width="28%"/>
     </p>
 </center>
 
