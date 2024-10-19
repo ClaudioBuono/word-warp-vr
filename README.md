@@ -6,7 +6,7 @@
 
   
 <center>
-  <img  src="media/Images/word_warp_main_title.png"  width="60%"/>
+  <img  src="media/Images/word_warp_main_title.png"  width="70%"/>
 </center>
   
 
@@ -64,7 +64,7 @@ Use Case Diagram of the game flow can be found [here](media/Images/UCD.png)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img  src="media/Images/logo.png"  width="80px"/> 
 
-1. **Download the APK** of the [latest release]().
+1. **Download the APK** of the [latest release](https://github.com/ClaudioBuono/word-warp-vr/releases/tag/v0.5.0-preview).
 2. Install the APK on your VR headset.
 3. Open the app and run **WordWarpVR**.
 
@@ -72,17 +72,17 @@ Use Case Diagram of the game flow can be found [here](media/Images/UCD.png)
 
   
 
-## ⚡ **Usage**
+## ⚡ **Locations**
 
 
 <center>
 
 ### HUB
 
-<img  src="media/Screenshots/HUB_panorama.jpg"  width="56%"/>
+<img  src="media/Screenshots/HUB_panorama.jpg"  width="60%"/>
 
 ### Game Table
-<img  src="media/Screenshots/new_game.png"  width="56%"/> 
+<img  src="media/Screenshots/new_game.png"  width="60%"/> 
 
 </center>
 
@@ -91,10 +91,10 @@ Use Case Diagram of the game flow can be found [here](media/Images/UCD.png)
 
 <center>
     <p float="left">
-    <img  src="media/GIFs/start_game.gif"  width="28%"/>
-    <img  src="media/GIFs/tutorial.gif"  width="28%"/><br> 
-    <img  src="media/GIFs/translate_gun.gif"  width="28%"/>
-    <img  src="media/GIFs/word_confirmation.gif"  width="28%"/>
+    <img  src="media/GIFs/start_game.gif"  width="30%"/>
+    <img  src="media/GIFs/tutorial.gif"  width="30%"/><br> 
+    <img  src="media/GIFs/translate_gun.gif"  width="30%"/>
+    <img  src="media/GIFs/word_confirmation.gif"  width="30%"/>
     </p>
 </center>
 
